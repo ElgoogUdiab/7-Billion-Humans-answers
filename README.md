@@ -1,6 +1,8 @@
 # 7 Billion Humans Answers
 
-I made this repo to put my answers on so others can see how to solve the puzzlesand learn from them.
+I made this repo to put my answers on so others can
+see how to solve the puzzles and learn from them.
+If you cheat, you'll ruin the game for yourself, so please don't do this.
 
 ## Submit solution
 
